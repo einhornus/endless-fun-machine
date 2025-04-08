@@ -1,0 +1,1 @@
+The meme pokes fun at Microsoft's overconfident claims about Copilot in Excel by showing how the AI assistant fails at a simple task of converting month abbreviations to full names, creating ridiculous made-up words instead of proper month names.

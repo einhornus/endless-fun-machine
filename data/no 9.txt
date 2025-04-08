@@ -1,0 +1,1 @@
+A programming meme that ironically suggests exposing API keys in front-end code instead of using environment variables for security, presented as if it's good advice by a cute anime character, when it's actually a terrible security practice that developers know should never be done.

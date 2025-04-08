@@ -1,0 +1,1 @@
+A user asking about a "white dot" in the Cursor application accidentally shared their screen showing a passwords.csv file containing multiple usernames and passwords, creating an ironic and facepalm-worthy moment where their attempt to get technical help resulted in a major security breach of their own making.

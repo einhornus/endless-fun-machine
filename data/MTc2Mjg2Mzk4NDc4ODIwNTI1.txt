@@ -1,0 +1,1 @@
+The comic humorously illustrates how programmers use "my code is compiling" as the perfect excuse to take breaks or goof off at work. Since compiling code can genuinely take time during which programmers can't do anything productive, it's a legitimate-sounding excuse that managers typically accept without question, allowing programmers to slack off without consequences.

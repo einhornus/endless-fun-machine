@@ -1,0 +1,1 @@
+A programming joke that plays on the ambiguity of "C++" as both a language name and an increment operator, where someone claims to use "C++ in JavaScript" but is actually just using the increment operator in normal JavaScript code, leading to mock outrage from other programmers.

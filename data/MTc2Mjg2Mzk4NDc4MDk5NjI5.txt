@@ -1,0 +1,1 @@
+The comic plays on the Unix/Linux "sudo" command, which forces programs to run with administrator privileges. It humorously suggests that using "sudo" in real life would force someone to obey a command they previously refused, turning a rude request into an unavoidable obligation.
