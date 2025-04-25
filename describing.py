@@ -1,8 +1,7 @@
 import os
-import llm
+import models
 
 model = "anthropic/claude-3.7-sonnet"
-trait = "funny"
 
 
 def describe_image(image_path):
@@ -14,7 +13,7 @@ def describe_image(image_path):
         {
             "role": "system",
             "content": "You are an image explainer.\n" +
-                       f"Please describe the image provided in full details focusing on what makes the image {trait}, and then summarize the idea of the image.\n" +
+                       f"Please describe the image provided in full details focusing on what makes the image funny, and then summarize the idea of the image.\n" +
                        "Response format:\n" +
                        "<Detailed image description>\n" +
                        "Summary: "
@@ -24,7 +23,7 @@ def describe_image(image_path):
         }
     ]
 
-    res = llm.call_llm(prompt, model)
+    res = models.call_llm(prompt, model)
     if res.count("```") >= 2:
         last_idx = res.rfind("```")
         penultimate_idx = res.rfind("```", 0, last_idx)
