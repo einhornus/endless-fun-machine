@@ -9,7 +9,7 @@ ideation_model = "gpt-4.1"
 # estimation_model = "anthropic/claude-3.7-sonnet"
 estimation_model = "gpt-4.1"
 temperature = 0.0
-n_references = 10
+n_references = 5
 n_ideas = 1
 
 
